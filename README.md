@@ -1,7 +1,8 @@
 # AB Test for Bidding Methods
 
+
 <p align="center">
-  <img width="700" height="350" src="file:///C:/Users/Hakan/Desktop/12-Lessons-from-Running-512-AB-Tests-in-One-Year_Invesp-1.png">
+  <img width="250" height="350" src="https://user-images.githubusercontent.com/99130519/159100348-a43e515f-7e2f-4722-9b5b-1a9aa3d1506a.png">
 </p>
 
 ## Business Problem
